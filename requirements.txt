@@ -1,0 +1,9 @@
+openai
+streamlit
+SpeechRecognition
+gTTS
+pygame
+pyaudio
+python-dotenv
+python-docx
+pocketsphinx
